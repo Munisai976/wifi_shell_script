@@ -1,0 +1,1 @@
+wifi auto connect script
